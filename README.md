@@ -9,4 +9,4 @@ Only used by discord users for sibylle issues
 - [ ] Discord tag
 
 ***My discord tag is Darkness#9488***
-**I only accept thoses who made a issue request**
+**I only accept thoses who made an issue request**
